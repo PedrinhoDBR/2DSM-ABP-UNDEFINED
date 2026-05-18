@@ -712,7 +712,6 @@ PostgreSQL
 <th>ID</th>
 <th>Nome</th>
 <th>Pontos</th>
-<th>Responsáveis</th>
 <th>Status</th>
 <th>Requisitos Atendidos</th>
 </tr>
@@ -726,7 +725,6 @@ PostgreSQL
 <td>32</td>
 <td>Criação do Diagrama de Classes</td>
 <td>5</td>
-
 <td>❌</td>
 <td>RNF04</td>
 </tr>
@@ -898,7 +896,6 @@ PostgreSQL
 <th>ID</th>
 <th>Nome</th>
 <th>Pontos</th>
-<th>Responsáveis</th>
 <th>Status</th>
 <th>Requisitos Atendidos</th>
 </tr>
